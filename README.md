@@ -22,6 +22,7 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=RealOST&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
+    <a href="https://wakatime.com/@RealOST"><img src="https://wakatime.com/badge/user/1c15bbd1-541c-4fee-a033-be3e099139f8.svg" /></a>
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
