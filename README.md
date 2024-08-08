@@ -1,9 +1,7 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=In+my+mind%2C+I+am+a+game+developer.;In+my+heart%2CI+am+a+gamer.&center=true&size=27" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=&random=&width=435&lines=In+my+mind%2C+I+am+a+game+developer.;In+my+heart%2CI+am+a+gamer." alt="Typing SVG" /></a>
   </div>
 </div>
 
