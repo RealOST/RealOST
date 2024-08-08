@@ -11,7 +11,7 @@
     </a>
   </div>
 
-  <img src="https://count.getloli.com/get/@RealOST" alt="RealOST" />
+  <img src="https://count.getloli.com/get/@RealOST?theme=rule34" alt="RealOST" />
 
    <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
