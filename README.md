@@ -38,11 +38,12 @@
   
   ### 🤺 About Me
   
+  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RealOST/RealOST/assets/images/jobs.png" />
   
-  <p>&emsp;&emsp;</p>
-  <p>&emsp;&emsp;</p>
-  <p>&emsp;&emsp;</p>
-  <p>&emsp;&emsp;<strong></strong></p>
+  <p>&emsp;&emsp;XXXXXXXX</p>
+  <p>&emsp;&emsp;XXXXXXXXXXXXXXXXXXXXXX</p>
+  <p>&emsp;&emsp;XXXXXXXXXXXXXX</p>
+  <p>&emsp;&emsp;<strong>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</strong></p>
   
   </td></tr>
   
