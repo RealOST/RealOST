@@ -35,6 +35,18 @@
 
 <table>
   <tr><td>
+  
+  ### 🤺 About Me
+  
+  
+  <p>&emsp;&emsp;</p>
+  <p>&emsp;&emsp;</p>
+  <p>&emsp;&emsp;</p>
+  <p>&emsp;&emsp;<strong></strong></p>
+  
+  </td></tr>
+  
+  <tr><td>
 
   ### 📊 WakaTime
   
