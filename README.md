@@ -105,6 +105,9 @@
   
   <!-- Quotes 名人名言 -->
   <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
     
   <!-- GitHub 奖杯🏆 -->
   <div><img src="https://github-profile-trophy.vercel.app/?username=RealOST&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
