@@ -98,7 +98,7 @@
 
   <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&theme=transparent&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&theme=transparent&layout=compact&langs_count=22" />
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&theme=transparent&layout=donut" />
   </p>
