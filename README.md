@@ -91,7 +91,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=RealOST&theme=cobalt&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=RealOST&theme=cobalt&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+<!-- <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> -->
+<a target="_blank" href="https://icons8.com/icon/bkiZ8cWXy32Q/star-filled">Star</a>
 
 </div>
 
@@ -105,9 +106,6 @@
   
   <!-- Quotes 名人名言 -->
   <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
     
   <!-- GitHub 奖杯🏆 -->
   <div><img src="https://github-profile-trophy.vercel.app/?username=RealOST&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
