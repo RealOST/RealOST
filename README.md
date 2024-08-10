@@ -98,9 +98,9 @@
 
   <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&theme=transparent&layout=compact&langs_count=10" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&theme=transparent&layout=compact&langs_count=10" />
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&theme=transparent&layout=donut&card_width=300" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&theme=transparent&layout=donut&card_width=300" />
   </p>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
