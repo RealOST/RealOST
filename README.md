@@ -99,7 +99,7 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RealOST&theme=transparent&layout=compact" />
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealOST&theme=transparent&layout=donut" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealOST&theme=transparent&layout=donut&langs_count=8&card_width=300" />
   <br/>
 
 </div>
