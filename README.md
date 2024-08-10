@@ -97,14 +97,9 @@
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RealOST&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&theme=transparent&hide_border=true&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&theme=transparent&hide_border=true&layout=donut-vertical" />
-    
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
 </div>
 
