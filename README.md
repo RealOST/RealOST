@@ -103,7 +103,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&theme=transparent&layout=donut&card_width=300" />
   </p>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=16" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
