@@ -91,8 +91,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=RealOST&theme=cobalt&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=RealOST&theme=cobalt&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/RealOST/RealOST/assets/images/icons8-star.gif" />
+<!-- <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> -->
+<img align="right" width="100"  src="https://cdn.jsdelivr.net/gh/RealOST/RealOST/assets/images/icons8-star.gif" />
 
 </div>
 
