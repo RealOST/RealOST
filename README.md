@@ -53,6 +53,7 @@
     <!--END_SECTION:waka-->
   </td></tr>
 
+#metric
   <tr><td>
     <div align="center">
     	<img src="https://metrics.lecoq.io/RealOST?template=classic&config.timezone=Etc%2FGMT-8">
