@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=May%20the%20Force%20be%20with%20you!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=May%20the%20Force%20be%20with%20you!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
   <img src="https://count.getloli.com/get/@RealOST?theme=rule34" alt="RealOST" />
 
-   <!-- for beauty 留个空行好看点 -->
+  <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
   <!-- profile logo 个人资料徽标 -->
@@ -67,26 +67,26 @@
 
 <div align="center">
 
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/RealOST/RealOST/assets/images/man_run.png" width="250" height="250" />
+  <!-- run 图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/RealOST/RealOST/assets/images/man_run.png" width="250" height="250" />
 
-<!-- Joke 笑话 -->
-<div>
+  <!-- Joke 笑话 -->
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
+      <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+    </picture>
+  </div>
+
+  <!-- github-readme-streak-stats 连续提交代码天数记录 -->
+  <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/RealOST/RealOST/assets/images/left.png" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RealOST&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=RealOST&theme=light&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=RealOST&theme=light&hide_border=true" />
   </picture>
-</div>
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/RealOST/RealOST/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RealOST&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=RealOST&theme=light&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=RealOST&theme=light&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/RealOST/RealOST/assets/images/right.png" />
+  <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/RealOST/RealOST/assets/images/right.png" />
 
 </div>
 
@@ -100,7 +100,7 @@
   
   <!-- Quotes 名人名言 -->
   <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-    
+  
   <!-- GitHub 奖杯🏆 -->
   <div><img src="https://github-profile-trophy.vercel.app/?username=RealOST&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
   
