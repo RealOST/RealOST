@@ -19,6 +19,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://www.cnblogs.com/RealOST/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://realost.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=RealOST&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
