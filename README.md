@@ -106,6 +106,7 @@ Windows                  12 hrs 53 mins      ███████████�
   
   <div align="center">
     <img src="https://metrics.lecoq.io/RealOST?template=classic&config.timezone=Etc%2FGMT-8">
+    <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
   </div>
   
   </td></tr>
