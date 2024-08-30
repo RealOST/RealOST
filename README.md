@@ -106,8 +106,9 @@ Windows                  10 hrs 8 mins       ███████████�
   ### metric
   
   <div align="center">
-    <img src="https://metrics.lecoq.io/RealOST?template=classic&config.timezone=Etc%2FGMT-8">
-    <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
+    <img width="150" src="/assets/images/cxyduck.gif" />&emsp;
+    <img src="/github-metrics/base.svg" />
+    &emsp;<img width="150" src="/assets/images/cxyduck.gif" />
   </div>
   
   </td></tr>
