@@ -101,17 +101,6 @@ Windows                  10 hrs 8 mins       ███████████�
 <!--END_SECTION:waka-->
   </td></tr>
 
-  <tr><td>
-    
-  ### metric
-  
-  <div align="center">
-    <img width="150" src="/assets/images/cxyduck.gif" />&emsp;
-    <img src="/github-metrics/base.svg" />
-    &emsp;<img width="150" src="/assets/images/cxyduck.gif" />
-  </div>
-  
-  </td></tr>
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -139,6 +128,14 @@ Windows                  10 hrs 8 mins       ███████████�
     <img src="https://streak-stats.demolab.com?user=RealOST&theme=light&hide_border=true" />
   </picture>
   <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/RealOST/RealOST/assets/images/right.png" />
+
+  ### metric
+  
+  <div align="center">
+    <img width="150" src="/assets/images/cxyduck.gif" />&emsp;
+    <img src="/github-metrics/base.svg" />
+    &emsp;<img width="150" src="/assets/images/cxyduck.gif" />
+  </div>
 
 </div>
 
