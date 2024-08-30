@@ -129,8 +129,7 @@ Windows                  10 hrs 8 mins       ███████████�
   </picture>
   <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/RealOST/RealOST/assets/images/right.png" />
 
-  ### metric
-  
+  <!-- metrics 基础资料 -->
   <div align="center">
     <img width="150" src="/assets/images/cxyduck.gif" />&emsp;
     <img src="/github-metrics/base.svg" />
