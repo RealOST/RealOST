@@ -41,9 +41,9 @@
   
   <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RealOST/RealOST/assets/images/jobs.png" />
   
-  <p>&emsp;&emsp;XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
-  <p>&emsp;&emsp;XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
-  <p>&emsp;&emsp;XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
+  <p>&emsp;&emsp;Hi there! My name is [Your Name]. </p>
+  <p>&emsp;&emsp;I’m from [Your Location], and I currently work as a [Your Job/Role] at [Your Company/Organization]. </p>
+  <p>&emsp;&emsp;In my free time, I enjoy [Your Hobbies/Interests], like [Specific Hobby or Interest]. </p>
   <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
   
