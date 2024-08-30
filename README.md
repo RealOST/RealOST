@@ -100,6 +100,7 @@ Windows                  10 hrs 8 mins       ███████████�
 
  Last Updated on 30/08/2024
 <!--END_SECTION:waka-->
+
 </td></tr>
 
 </table>
