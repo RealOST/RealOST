@@ -79,17 +79,19 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       15 mins             █████████████████████████   99.70 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Jetbrainsrider           15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/11/2024 01:44:53 UTC
+ Last Updated on 08/11/2024 01:45:37 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
