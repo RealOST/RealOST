@@ -79,17 +79,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+GDScript3                18 mins             ██████████████████░░░░░░░   70.59 % 
+Python                   7 mins              ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  26 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/02/2025 01:49:56 UTC
+ Last Updated on 18/02/2025 01:46:15 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
