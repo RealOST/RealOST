@@ -39,7 +39,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="/assets/images/tieba_emotion_25.png" />
+<img align="right" width="88" src="/assets/images/seal2.png" />
 
 <p>&emsp;&emsp;Hi there! My name is [Your Name]. </p>
 <p>&emsp;&emsp;I’m from [Your Location], and I currently work as a [Your Job/Role] at [Your Company/Organization]. </p>
