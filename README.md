@@ -41,10 +41,10 @@
 
 <img align="right" width="88" src="/assets/images/seal.png" />
 
-<p>&emsp;&emsp;Hi there! I am RealOST. </p>
-<p>&emsp;&emsp;An explorer by nature, venturing into the unknown with endless curiosity. </p>
-<p>&emsp;&emsp;An inventor at core, reshaping the world through knowledge and infusing them with my distinct touch. </p>
-<p>&emsp;&emsp;Persistence holds true worth, no need for burning midnight oil; the greatest futility lies in one day's zeal followed by ten days' frost. </p>
+<p>&emsp;&emsp;Hi there! I am RealOST.</p>
+<p>&emsp;&emsp;An explorer by nature, venturing into the unknown with endless curiosity.</p>
+<p>&emsp;&emsp;An inventor at core, reshaping the world through knowledge and infusing them with my distinct touch.</p>
+<p>&emsp;&emsp;<strong>Persistence holds true worth, no need for burning midnight oil; the greatest futility lies in one day's zeal followed by ten days' frost.</strong></p>
 <br/>
 
 </td></tr>
