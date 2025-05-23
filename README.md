@@ -39,7 +39,7 @@
 
 ### 🤺 About Me
 
-<img align="right" height="88" src="/assets/images/seal.png" style="margin-right: 16px;"/>
+<img align="right" height="88" src="/assets/images/seal.png" width="88"/>
 
 <p>&emsp;&emsp;Hi there! I am RealOST.</p>
 <p>&emsp;&emsp;An explorer by nature, venturing into the unknown with endless curiosity.</p>
