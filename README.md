@@ -7,7 +7,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=%22In+my+mind%2C%22;%22I+am+a+game+developer.%22;%22But+in+my+heart%2C%22;%22I+am+a+gamer.%22;%22With+great+power%2C%22;%22comes+great+responsibility.%22;&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=%22In+my+mind%2C%22;%22I+am+a+game+developer.%22;%22But+in+my+heart%2C%22;%22I+am+a+gamer.%22;%22With+great+responsibility%2C%22;%22comes+great+power.%22;&center=true&size=27" />
     </a>
   </div>
 
