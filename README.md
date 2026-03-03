@@ -150,9 +150,9 @@ Windows                  13 hrs 46 mins      ███████████�
   <img height="137px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RealOST&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RealOST&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=RealOST&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealOST&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RealOST&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
 </div>
 
